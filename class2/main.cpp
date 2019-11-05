@@ -4,11 +4,12 @@ using namespace std;
 
 int main()
 {
+  //  Sally so;
+  //  Sally *sallypointer = &so;
+ //   so.printCrap();
+ //   sallypointer->printCrap();
+
     Sally so;
-    Sally *sallypointer = &so;
-
-
     so.printCrap();
-
-    sallypointer->printCrap();
+    cout << "abasdf" << endl;
 }
